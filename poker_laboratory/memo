@@ -1,0 +1,34 @@
+ <!-- header --> 
+  <header class="header">
+    <div class="container">
+      <div class="area_logo_header">
+        <a class="logo" href="">
+          <img src="images/トランプ.jpg">
+        </a>
+      </div>
+      <!-- header ナビ -->
+      <nav class="area_nav_header">
+        
+        <div class="body_nav_header">
+          <ul class="list_nav_header">
+            <li>
+              <a href="play.html">ポーカーの遊び方</a>
+            </li>
+            <li>
+              <a href="history.html
+              ">ポーカーの歴史</a>
+            </li>
+            <li>
+              <a href="index.html">アミューズメント一覧</a>
+            </li>
+            <li>
+              <a href="">オンラインポーカー</a>
+            </li>
+            <li>
+              <a href="">お問い合わせ</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </header>

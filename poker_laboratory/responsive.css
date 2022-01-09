@@ -1,0 +1,13 @@
+
+
+@media (max-width: 1240px) {
+  .list_nav_header {
+    display: none;
+  }
+}
+
+@media (max-width: 1239px) {
+  #nav-drawer {
+    display: block;
+  }
+}
